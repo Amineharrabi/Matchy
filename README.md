@@ -75,7 +75,7 @@ npm start
 
 ## License
 
-This project is licensed under no licence it is closed Source - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC01 Licence- see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
