@@ -1,4 +1,7 @@
 # Matchy 3.0 
+watch the youtube video ! :
+https://www.youtube.com/watch?v=6qCYULbW1yI
+<img width="640" height="360" alt="(OPEN SOURCE)" src="https://github.com/user-attachments/assets/a71a623c-2f85-40f6-b4c9-1192fd8d8a67" />
 
 A modern music discovery and playlist management app built with Expo and the Spotify API.
 
